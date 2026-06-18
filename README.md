@@ -8,6 +8,16 @@ Created and engineered by [Ayush Saxena](https://github.com/AyushSaxena-0).
 
 HyperMotion AI generates motion-aware intermediate frames between existing video frames. It is designed for creators, animators, gamers, and video enthusiasts who want high-frame-rate video, fluid anime playback, slow-motion footage, or smoother 4K/1080p motion without simple frame duplication.
 
+#Enter Required Frame Rate
+<img width="1891" height="862" alt="image" src="https://github.com/user-attachments/assets/9b7776e0-1a2a-4fc0-a991-d75c35990c15" />
+Note the video is used for demonstration purpose only 
+(Yes I am Zatch Bell fan and made this project to enjoy that anime at 60 fps)
+
+#Get Desired Smooth Video
+<img width="1897" height="865" alt="image" src="https://github.com/user-attachments/assets/f2f414cc-09a2-49f9-b4c3-4201e89c9ee5" />
+Note the video is used for demonstration purpose only
+
+
 ### Key Features
 
 - Convert 24, 30, or 60 FPS video to **60, 120, 144, or custom FPS**
