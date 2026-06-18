@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data
+outputs/
+.trt_cache/
+*.log
+
+# Platform binaries (install locally or use PATH)
+ffmpeg.exe
+ffprobe.exe
+ffmpeg.old.exe
+ffprobe.old.exe
+
+# Archives and local model experiments
+*.zip
+4.25_lite/
+train_log_backup_v4.26/
+train_log_v4.6/
+
+# Superseded prototype implementation
+modules/
+Practical-RIFE/
+gpu_monitor.py
+interpolation_engine.py
+rife_model.py
+video_processor.py
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

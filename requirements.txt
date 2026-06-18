@@ -1,0 +1,8 @@
+gradio>=5.0
+numpy>=1.24
+torch>=2.2
+
+# Optional ONNX/TensorRT backends:
+# onnxruntime-gpu>=1.18
+# tensorrt>=10.0
+# pycuda>=2024.1
